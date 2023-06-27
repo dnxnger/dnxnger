@@ -1,4 +1,6 @@
 <h1 align="center"><b>Hola soy Andres N. </b> :technologist: </h1>
+<p><img src="https://komarev.com/ghpvc/?username=aryasoni98&label=Profile%20views&color=0e75b6&style=flat" alt="dnxnger" /></p>
+
 
 ### Spotify 🎧
 

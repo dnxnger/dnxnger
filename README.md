@@ -1,9 +1,5 @@
 <h1 align="center"><b>Hola soy Andres N. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
-</p>
-
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
@@ -11,6 +7,8 @@
 ---
 
 <img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=Bgstatic&repo=Bgstatic&countColorcountColor&countColor=%237B1E7B"/>
+
+<br />
 
 ---
 
@@ -59,4 +57,8 @@
 [linkedin]: https://www.linkedin.com/in/edison-nari%C3%B1o-09a76a278/
 [Spotify]: https://open.spotify.com/user/12169012638
 
+----
+Credit: [dnxnger](https://github.com/dnxnger)
+
+Last Edited on: 23/09/2020
 

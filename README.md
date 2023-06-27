@@ -37,7 +37,7 @@
  <div align="center">
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<a href="https://github.com/bindian0509/bindian0509">
+<a href="https://github.com/bindian0509/dnxnger">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>

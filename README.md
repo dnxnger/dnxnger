@@ -34,19 +34,25 @@
 
 <br/>
 
-  <h2 align="center"> Github Estadisticas :metal: </h2>
-  
-  <div align="center"> 
-     <a href="">
-      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Bgstatic&show_icons=true&include_all_commits=true&count_private=true&theme=react&line_height=40" />
-    </a>
-    <a href="">
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bgstatic&theme=react&line_height=40&hide=css"/>
-    </a>
-    
-</div
+ <div align="center">
+<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
-<br/>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+</a>
+<h3>Longest vs Current Streak </h3>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bindian0509&theme=gruvbox" alt="Bharat's GitHub Streak Stats"/>
+</a>
+<br><br>
+<a href="https://github.com/bindian0509/bindian0509">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=bindian0509&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Bharat's GitHub Contributions Graph"/>
+</a>
+</div>
 
 ---
 

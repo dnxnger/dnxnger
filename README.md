@@ -38,11 +38,11 @@
 <h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
 
 <a href="https://github.com/dnxnger/dnxnger">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/bindian0509" alt="Bharat's GitHub Stats Graph"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bindian0509&theme=gruvbox&hide_border=true)](https://github.com/dnxnger" alt="Bharat's GitHub Stats Graph"/>
 </a>
 <br><br>
 <a href="https://github.com/dnxnger/dnxnger">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bindian0509&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dnxnger&count_private=true&show_icons=true&theme=gruvbox&hide_border=true&custom_title=Bharat%20V%27s%20Github%20Stats" alt="Bharat's GitHub Stats" />
 </a>
 <h3>Longest vs Current Streak </h3>
 <a href="https://github.com/dnxnger/dnxnger">

@@ -1,4 +1,4 @@
-<h1 align="center"><b>Hola soy Andres N. </b>< :technologist: ></h1>
+<h1 align="center"><b>Hola soy Andres N. </b> :technologist: </h1>
 
 ### Spotify 🎧
 

@@ -35,7 +35,7 @@
 <br/>
 
  <div align="center">
-<h2 align="center" style="margin: 5px 10px;">Github stats:</h2> 
+<h2 align="center" style="margin: 5px 10px;">Github estado:</h2> 
 
 <a href="https://github.com/dnxnger/dnxnger">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dnxnger&theme=gruvbox&hide_border=true)](https://github.com/dnxnger" alt="Dnxnger GitHub Stats Graph"/>
@@ -50,7 +50,7 @@
 </a>
 <br><br>
 <a href="https://github.com/dnxnger/dnxnger">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dnxnger&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Bharat's GitHub Contributions Graph"/>
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=dnxnger&theme=gruvbox&hide_border=true&custom_title=Contribution%20Graph" alt="Dnxnger GitHub Contributions Graph"/>
 </a>
 </div>
 

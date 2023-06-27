@@ -1,6 +1,6 @@
 <h1 align="center"><b>Hola soy Andres N. </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-### Spotify Playing 🎧
+### Spotify 🎧
 
 [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
 
@@ -13,7 +13,7 @@
 
 ---
 
-### Languages and Tools 🛠 
+### Lenguajes y herramientas 🛠 
 
 ![Java](http://img.shields.io/badge/-Java-5B4638?style=flat-square&logo=java&logoColor=ffffff)
 ![C](http://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=ffffff)
@@ -35,7 +35,7 @@
 
 <br/>
 
-  <h2 align="center"> Github Statistics 📈 </h2>
+  <h2 align="center"> Github Estadisticas :metal: </h2>
   
   <div align="center"> 
      <a href="">

@@ -56,10 +56,10 @@
 [![Mail](https://img.shields.io/badge/-Say%20Hi!-black?style=for-the-badge&logo=gmail)](mailto:dnxnger666@gmail.com)
 [![Twitter](https://img.shields.io/badge/-Twitter-black?style=for-the-badge&logo=twitter)](https://twitter.com/mxmbogota)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/edison-nari%C3%B1o-09a76a278/)
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
+<a href="https://www.reddit.com/user/Confident_Balance_10">
   <img align="left" alt=" Reddit" width="90" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
 </a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
+<a href="https://steamcommunity.com/profiles/76561198190367826/">
   <img align="left" alt="Steam" width="90" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
 </a>
 
